@@ -1,0 +1,21 @@
+.col
+{
+    margin-left: 30px;
+   
+}
+.align-self-start
+{
+    margin-left: -20px;
+}
+div p{
+    margin-left: -50px;
+}
+div.abc
+{
+    background-color: aqua;
+    max-width: 100px;
+}
+.colsm
+{
+    margin-left: 400px;
+}
